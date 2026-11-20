@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# 👋 Hi, I'm Siva!
+# 👋 Hi, I'm gowriprasadh!
 
 ### 🚀 Forward Deployed Engineer | AI Engineer | Full-Stack Developer
 
